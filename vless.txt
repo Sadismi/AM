@@ -1,1 +1,1 @@
-vless://f161be33-8248-4dd5-b8ff-87cedef5bda3@1.paynetroom.com:8443?path=%2Flink&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=262489859633b0b7.PAynEtrOOm.COm&fp=chrome&type=ws&allowInsecure=0&sni=3b01246333ce1263.PAynEtrOOm.COm#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%E2%98%83%EF%B8%8F%20%40NET-VPN%20%E2%88%9EDay%20-%20%E2%88%9E
+vless://f9acb9b3-bdc5-46cb-8b44-f72ed841638c@react.dev:443?encryption=none&security=tls&sni=react.dev&insecure=1&allowInsecure=1&type=xhttp&host=vercel-xhttp-zeta-ruby.vercel.app&path=%2Famir&mode=auto#versel-UK
